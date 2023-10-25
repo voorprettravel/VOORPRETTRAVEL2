@@ -12,6 +12,10 @@
    padding-left: 3rem;
  }
 
+ .background-header{
+  background-color: #ffffff;
+ }
+
  /* BANNER */
 
  .hero-image {
